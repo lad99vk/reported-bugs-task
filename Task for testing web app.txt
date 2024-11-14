@@ -1,0 +1,5 @@
+1. Test the page https://qatest.soho.akademos.dev/qa.php
+2. Find as many bugs as possible
+3. Suggest improvements
+4. Compile bugs and improvements into one file, file format of your choice
+5. Time to complete 1-2 hours
